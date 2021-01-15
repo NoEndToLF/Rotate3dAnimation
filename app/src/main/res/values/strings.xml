@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Rotate3dAnimation</string>
+    <integer name="anim_length">600</integer>
+    <integer name="anim_half_length">300</integer>
 </resources>
